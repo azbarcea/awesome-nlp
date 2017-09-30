@@ -40,6 +40,7 @@ Please feel free to create [pull requests](https://github.com/keonkim/awesome-nl
    - [Neural Network](#neural-network)
    - [Supplementary Materials](#supplementary-materials)
  - [Blogs](#blogs)
+ - [Wikis](#wikis)
  - [Credits](#credits)
 
 
@@ -328,6 +329,9 @@ Joulin, Mikolov 2015. [Stack RNN source code](https://github.com/facebook/Stack-
 * Ultimate Guide to [Understand & Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
 *[Introduction to NLP]
 (https://hackernoon.com/learning-ai-if-you-suck-at-math-p7-the-magic-of-natural-language-processing-f3819a689386)
+
+## Wikis
+* [OHNLP Consortium](http://ohnlp.org/index.php/Main_Page)
 
 ## Credits
 part of the lists are from
